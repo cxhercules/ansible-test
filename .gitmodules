@@ -1,0 +1,3 @@
+[submodule "roles/ansible-mesosphere"]
+	path = roles/ansible-mesosphere
+	url = https://github.com/hhercules/ansible-mesosphere.git
